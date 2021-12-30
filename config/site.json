@@ -1,6 +1,6 @@
 {
   "icon": "/icons/128.png",
-  "title": "Spencer's OneDrive",
+  "title": "HP's OneDrive",
   "maxItems": 100,
   "googleFontSans": "Inter",
   "googleFontMono": "Fira Mono",
@@ -12,15 +12,15 @@
     "/🌞 Private folder/u-need-a-password",
     "/🥟 Some test files/Protected route"
   ],
-  "email": "mailto:spencer.wushangbo@gmail.com",
+  "email": "mailto:2022@hp.email",
   "links": [
     {
       "name": "GitHub",
-      "link": "https://github.com/spencerwooo/onedrive-vercel-index"
+      "link": "https://github.com/hprandom/onedrive-vercel-index"
     },
     {
       "name": "Telegram",
-      "link": "https://t.me/realSpencerWoo"
+      "link": "https://t.me/knapravine"
     }
   ]
 }
